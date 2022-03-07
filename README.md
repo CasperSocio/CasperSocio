@@ -1,10 +1,10 @@
-### Hi there 👋
+## 👋 Hi, I'm Casper!
 
 My name is **Casper Tollefsen** and I'm a web-developer from Norway.
 
 Visit my Hashnode blog at [blog.casperdesign.no](https://blog.casperdesign.no)
 
-## Languages
+## 🌐 Languages
 
 - TypeScript
 - JavaScript
