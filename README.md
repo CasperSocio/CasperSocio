@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+My name is **Casper Tollefsen** and I'm a web-developer from Norway.
+
+Visit my Hashnode blog at [blog.casperdesign.no](https://blog.casperdesign.no)
+
+## Languages
+
+- TypeScript
+- JavaScript
+- CSS
+- Sass
+- HTML
+
 <!--
 **CasperSocio/CasperSocio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
