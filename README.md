@@ -4,12 +4,12 @@ My name is **Casper Tollefsen** and I'm a web-developer from Norway.
 
 Visit my Hashnode blog at [blog.casperdesign.no](https://blog.casperdesign.no)
 
-## 🌐 Languages
+## 🌐 Skills
 
-- TypeScript
-- JavaScript
-- CSS
-- Sass
+- TypeScript / JavaScript
+- Vue
+- React
+- CSS / Sass
 - HTML
 
 <!--
