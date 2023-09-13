@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Casper!
 
-My name is **Casper Tollefsen** and I'm a web-developer from Norway.
+My name is **Casper Tollefsen** and I'm a software developer from Norway.
 
 Visit my Hashnode blog at [blog.casperdesign.no](https://blog.casperdesign.no)
 
